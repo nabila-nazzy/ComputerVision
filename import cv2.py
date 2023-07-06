@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 print(cv2.__version__)
 # version check 4.5 smth..
+# A comment
 
 img = cv2.imread('C:\\Users\\nazar\\Downloads\\ComputerVision\\SBR.jpg') 
 img2Face = cv2.imread('C:\\Users\\nazar\\Downloads\\ComputerVision\\myhonestreaction.jpeg') 
